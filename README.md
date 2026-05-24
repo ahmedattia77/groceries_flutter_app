@@ -19,6 +19,13 @@ A modern, high-performance Restaurant & Food Delivery mobile application built u
 
 ---
 
+## 📺 App Demo (Video Showcase)
+
+
+https://github.com/user-attachments/assets/1106e2ad-e23d-4da6-acc5-930b40a0e59b
+
+
+
 ## 📁 Project Architecture & File Structure
 
 The project strictly separates the **Data Layer** from the **Presentation Layer (UI)** to ensure scalability:
