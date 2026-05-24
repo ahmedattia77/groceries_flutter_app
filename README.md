@@ -15,7 +15,10 @@ A modern, high-performance Restaurant & Food Delivery mobile application built u
 *   **State-Preserved Navigation**: Utilizing `IndexedStack` inside the main layout wrapper to cache screen states and retain user scroll positions while seamlessly navigating between different tabs.
 
 ### 🌓 Atomic UI Components nvigation using value notifiers.
-*   **Micro-Widgets Separation**: High code reusability by splitting screens into clean micro-components (e.g., `ProfilePicture`, `AuthTextField`, `AccountSettingsItem`).
+*   **Micro-Widgets Separation**: High code reusability by splitting screens into clean micro-components also depent on common widget
+*   that sharing same ui base code for reusblity.
+
+### 🌓 depending on OOP/OOD in app design (data layer ui states management etc).
 
 ---
 
