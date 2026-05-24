@@ -10,6 +10,16 @@ A modern, high-performance Groceries App mobile application built using **Flutte
 *   **Zero-Lag Theme Toggle**: Seamlessly switch between Light and Dark themes across the entire app via a global reactive notifier.
 *   **Smart Icons & Typography**: Custom SVG assets and texts dynamically adapt their color filters (`Theme.of(context)`) instantly without full-page rebuilts, maintaining a buttery smooth scrolling experience.
 
+# AuthBackground Widget 🎨 ✨
+
+A beautiful, modern, and reusable background widget, It creates a stunning **Glow / Glassmorphism** effect using layered shapes and blurred filters, perfect for Authentication (Login/Signup) screens.
+
+## 🌟 Features
+* **Modern UI:** Implements a soft, glowing gradient background using `BackdropFilter`.
+* **Highly Responsive:** Uses flexible positions that adapt to different screen sizes.
+* **Performance Ready:** Clean structure with minimal rendering overhead.
+
+
 ### 🌓 Secure Authentication & State Routing using value notifiers.
 *   **Centralized WidgetTree**: A smart gateway that manages the application lifecycle. It safely renders either the auth screens (`LoginPage`/`SignUpPage`) or the `MainLayout` based on the real-time login state.
 *   **State-Preserved Navigation**: Utilizing `IndexedStack` inside the main layout wrapper to cache screen states and retain user scroll positions while seamlessly navigating between different tabs.
