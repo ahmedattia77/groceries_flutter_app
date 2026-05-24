@@ -6,7 +6,7 @@ A modern, high-performance Restaurant & Food Delivery mobile application built u
 
 ## Core Features
 
-### Dynamic Light & Dark Mode
+### 🌓 Dynamic Light & Dark Mode
 *   **Zero-Lag Theme Toggle**: Seamlessly switch between Light and Dark themes across the entire app via a global reactive notifier.
 *   **Smart Icons & Typography**: Custom SVG assets and texts dynamically adapt their color filters (`Theme.of(context)`) instantly without full-page rebuilts, maintaining a buttery-smooth 60/120 FPS scrolling experience.
 
