@@ -18,8 +18,8 @@ A modern, high-performance Restaurant & Food Delivery mobile application built u
 *   **Micro-Widgets Separation**: High code reusability by splitting screens into clean micro-components also depent on common widget
 *   that sharing same ui base code for reusblity.
 
-### 🌓 depending on OOP/OOD in app design (data layer ui states management etc).
-
+### 🌓 depending on OOP/OOD in app design.
+*   **Data Layer UI State Management etc**: 
 ---
 
 ## 📺 App Demo (Video Showcase)
